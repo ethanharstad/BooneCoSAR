@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Boone County Search &amp; Rescue</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Boone County Search &amp; Rescue</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/apparatus/sar-91/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/apparatus/sar-91/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>About Boone County SAR</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Commander Hayes</title>
+      <link>http://localhost:1313/members/hayes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/members/hayes/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Commander McCrea</title>
+      <link>http://localhost:1313/members/mcrea/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/members/mcrea/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Rope</title>
+      <link>http://localhost:1313/capabilities/rope/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/capabilities/rope/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sergeant Harstad</title>
+      <link>http://localhost:1313/members/harstad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/members/harstad/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Water</title>
+      <link>http://localhost:1313/capabilities/water/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/capabilities/water/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
