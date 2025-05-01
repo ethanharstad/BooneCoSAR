@@ -3,7 +3,7 @@ title: Rope Rescue Training
 date: 2025-04-11
 categories:
 - Training
-tags:
+capabilities:
 - Rope Rescue
 ---
 

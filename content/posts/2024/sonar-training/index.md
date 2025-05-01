@@ -3,7 +3,7 @@ title: Sonar Training
 date: 2024-06-28
 categories:
 - Training
-tags:
+capabilities:
 - Water Rescue
 - Sonar
 ---

@@ -3,7 +3,7 @@ title: Ice Rescue Training
 date: 2025-01-26
 categories:
 - Training
-tags:
+capabilities:
 - Ice Rescue
 ---
 

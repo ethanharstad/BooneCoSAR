@@ -3,7 +3,7 @@ title: Spring Ledges Search
 date: 2025-03-22
 categories:
 - Operations
-tags:
+capabilities:
 - Wilderness
 ---
 
