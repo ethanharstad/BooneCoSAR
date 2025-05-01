@@ -1,5 +1,6 @@
 ---
 title: Support
+date: 2025-05-01
 ---
 
 If you are interested in supporting our mission please contact Chris Hayes at <chayes@boonecounty.iowa.gov>.

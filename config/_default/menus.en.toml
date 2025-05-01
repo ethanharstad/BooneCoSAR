@@ -31,9 +31,14 @@
   weight = 40
 
 [[main]]
+  name = "Support"
+  pageRef = "support"
+  weight = 50
+
+[[main]]
   name = "About"
   pageRef = "about"
-  weight = 50
+  weight = 100
 
 #[[main]]
 #  name = "Parent"
