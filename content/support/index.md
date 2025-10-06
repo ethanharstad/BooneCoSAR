@@ -17,13 +17,17 @@ $1,000 Community Giving Grant
 
 $500
 
+#### Boone County Community Foundation
+
+[Boone County Community Foundation](https://www.foundationboonecounty.org/) provided funds for the purchase of an [NRS ASR-155 inflatable rescue boat](/posts/2025/banana-boat).
+
 #### Casey's
 
 $500
 
 #### Landus
 
-[Landus](https://www.landus.ag/) provided funds for the purchase of an Arizona Vortex artificial high directional tripod.
+[Landus](https://www.landus.ag/) provided funds for the purchase of an [Arizona Vortex](/posts/2025/landus-donation) artificial high directional tripod.
 
 #### Walter's Sanitary Services Inc
 
