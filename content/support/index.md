@@ -21,6 +21,10 @@ $500
 
 $500
 
+#### Landus
+
+[Landus](https://www.landus.ag/) provided funds for the purchase of an Arizona Vortex artificial high directional tripod.
+
 #### Walter's Sanitary Services Inc
 
 Mustang Ice Rescue Suit
