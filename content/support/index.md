@@ -11,11 +11,11 @@ If you are interested in supporting our mission please contact Chris Hayes at <c
 
 #### Alliant Energy
 
-$1,000 Community Giving Grant
+[Alliant Energy](https://www.alliantenergy.com/) provided $1,000 through their Community Giving Grant that was used to purchase [cold weather gear](/posts/2025/alliant-grant) for our members.
 
 #### Boiler Chiller Systems LLC
 
-$500
+[Boiler Chiller Systems LLC](https://www.boilerchillersystems.com/) of Omaha provided $500 to be used for gear and training.
 
 #### Boone County Community Foundation
 
@@ -23,16 +23,20 @@ $500
 
 #### Casey's
 
-$500
+[Casey's](https://www.caseys.com/) provided $500 for use on gear and training.
 
 #### Landus
 
 [Landus](https://www.landus.ag/) provided funds for the purchase of an [Arizona Vortex](/posts/2025/landus-donation) artificial high directional tripod.
 
-#### Walter's Sanitary Services Inc
+#### Seven Oaks
 
-Mustang Ice Rescue Suit
+[Seven Oaks](https://sevenoaksrec.com/) provided Gatorade and bottled water.
 
 #### Ogden Telephone
 
-Mustang Ice Rescue Suit
+[Ogden Telephone](https://www.ogdentelephone.com/) provided funds for the purchase of a Mustang Ice Rescue Suit.
+
+#### Walter's Sanitary Services Inc
+
+[Walters Sanitary Service](https://www.walterssanitaryservice.com/) provided funds for the purchase of a Mustang Ice Rescue Suit.
